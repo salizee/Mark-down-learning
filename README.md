@@ -21,5 +21,5 @@ __Mathematicak manipulation__
  
 | Name    | Surname | num | 
 |---------|---------|-----|
-salisu     Muhammad  345
+|salisu   |  Muhammad|  345|
 
