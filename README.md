@@ -23,5 +23,8 @@ __Mathematicak manipulation__
 |---------|---------|-----|
 |salisu   |  Muhammad|  345|
 
+#Liat
+
 [x] Danladi habu
+
 [] Bala Babannan
