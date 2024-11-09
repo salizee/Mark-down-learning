@@ -19,5 +19,6 @@ __Mathematicak manipulation__
 
  #Table
  
-|-----|-----|-----|
-Name   Surname
+|------|------|-----|
+
+ Name  Surname num
