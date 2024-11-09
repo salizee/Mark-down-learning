@@ -17,9 +17,9 @@ __Mathematicak manipulation__
 
  -num2
 
- ##Table
+ #Table
  
 | Name    | Surname | num | 
 |---------|---------|-----|
-
+salisu     Muhammad  345
 
