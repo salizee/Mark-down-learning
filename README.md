@@ -1,5 +1,7 @@
-# Mark-down-learning
+# Mark-down-learning\
+
 Journey to learning how to write mark down
+
 **This is Bold**
 
 __Mathematicak manipulation__
@@ -11,3 +13,4 @@ __Mathematicak manipulation__
 -num2
  -num1
  -num2
+|-----
