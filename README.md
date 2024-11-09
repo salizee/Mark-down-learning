@@ -21,4 +21,4 @@ __Mathematicak manipulation__
  
 |------|------|-----|
 
- Name  Surname num
+| Name | Surname| num|
