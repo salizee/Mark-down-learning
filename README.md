@@ -25,6 +25,6 @@ __Mathematicak manipulation__
 
 #Liat
 
-[x] Danladi habu
+[x]Danladi habu
 
-[] Bala Babannan
+[]Bala Babannan
